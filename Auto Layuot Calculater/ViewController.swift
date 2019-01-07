@@ -3,13 +3,10 @@
 //  Auto Layuot Calculater
 //
 //  Created by sapir on 05/01/2019.
-//  Copyright © 2019 Sapir. All rights reserved.
+//  Copyright © 2019 Sapir Shloush. All rights reserved.
 //
 
 import UIKit
-
-import UIKit
-
 class ViewController: UIViewController {
     
     var numberOnScreen: Double = 0;
